@@ -26,16 +26,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConfigServerApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-config-server/src/main/java/cloud/config/server/ConfigServerApplication.java">
+      <file leaf-file-name="EurekaServerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-eureka-server/src/main/java/cloud/eureka/server/EurekaServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+            <state relative-caret-position="195">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-eureka-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,6 +80,8 @@
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-config-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-config-server/src/main/java/cloud/config/server/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-eureka-server/src/main/java/cloud/eureka/server/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-eureka-server/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -92,8 +102,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="y" value="77" />
+    <option name="x" value="449" />
+    <option name="y" value="79" />
     <option name="width" value="1222" />
     <option name="height" value="700" />
   </component>
@@ -578,15 +588,15 @@
       <workItem from="1500505343552" duration="243000" />
       <workItem from="1500505590072" duration="1065000" />
       <workItem from="1500506679717" duration="14000" />
-      <workItem from="1500705696481" duration="1076000" />
+      <workItem from="1500705696481" duration="2239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2398000" />
+    <option name="totallyTimeSpent" value="3561000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="77" width="1222" height="700" extended-state="0" />
+    <frame x="449" y="79" width="1222" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -812,6 +822,24 @@
             <element signature="e#564#565#0" expanded="true" />
             <element signature="e#637#638#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-eureka-server/src/main/java/cloud/eureka/server/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
