@@ -67,7 +67,6 @@ public abstract class BaseServiceImpl<T extends BaseEntity> implements BaseServi
      */
     @Override
     public int selectCount(T record) {
-
         return getMapper().selectCount(record);
     }
 
@@ -208,7 +207,5 @@ public abstract class BaseServiceImpl<T extends BaseEntity> implements BaseServi
             throw new RuntimeException(e.getMessage(), e);
         }
     }
-
-
 
 }
