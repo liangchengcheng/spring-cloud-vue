@@ -26,14 +26,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SysConfigController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SysConfigController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/SysConfigController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="32" column="83" selection-start-line="32" selection-start-column="83" selection-end-line="32" selection-end-column="83" />
+            <state relative-caret-position="181">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1323#1339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysAdminUsersController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/SysAdminUsersController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="138" column="5" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3339#3369#1" expanded="true" />
+                <element signature="e#4123#4153#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-zipkin-ui/src/main/resources/bootstrap.properties" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-zipkin-ui/src/main/resources/static/js/app.js" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/util/MyMapper.java" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/util/FileUtils.java" />
@@ -115,6 +128,7 @@
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/CommonController.java" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/UploadController.java" />
         <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/SysConfigController.java" />
+        <option value="$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/SysAdminUsersController.java" />
       </list>
     </option>
   </component>
@@ -135,8 +149,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="700" />
-    <option name="y" value="40" />
+    <option name="x" value="437" />
+    <option name="y" value="45" />
     <option name="width" value="1222" />
     <option name="height" value="700" />
   </component>
@@ -629,15 +643,15 @@
       <workItem from="1500505343552" duration="243000" />
       <workItem from="1500505590072" duration="1065000" />
       <workItem from="1500506679717" duration="14000" />
-      <workItem from="1500705696481" duration="23541000" />
+      <workItem from="1500705696481" duration="24375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24863000" />
+    <option name="totallyTimeSpent" value="25697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="40" width="1222" height="700" extended-state="0" />
+    <frame x="437" y="45" width="1222" height="700" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -718,16 +732,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/conf/CaptchaConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/conf/DruidProperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -1448,11 +1452,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/SysConfigController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="32" column="83" selection-start-line="32" selection-start-column="83" selection-end-line="32" selection-end-column="83" />
+        <state relative-caret-position="181">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1323#1339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-vue-parent/cloud-simple-service/src/main/java/cloud/simple/service/web/SysAdminUsersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="138" column="5" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3339#3369#1" expanded="true" />
+            <element signature="e#4123#4153#1" expanded="true" />
           </folding>
         </state>
       </provider>
