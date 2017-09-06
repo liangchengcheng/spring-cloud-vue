@@ -2,32 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b374add9-6ea4-4db0-bc1c-c01d873a7b9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logo4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logo5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logout_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logout_24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/images/logout_36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/css/font-awesome.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/css/global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/js/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/js/form_com.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/js/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/js/http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/assets/js/list_com.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud-vue/my-vue-cloud/src/components/refresh.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spring-cloud-vue.iws" />
@@ -164,8 +138,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="206" />
-    <option name="y" value="286" />
+    <option name="x" value="499" />
+    <option name="y" value="59" />
     <option name="width" value="1222" />
     <option name="height" value="700" />
   </component>
@@ -675,8 +649,8 @@
     <option name="totallyTimeSpent" value="42199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="206" y="286" width="1222" height="700" extended-state="1" />
-    <editor active="true" />
+    <frame x="499" y="59" width="1222" height="700" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
